@@ -10,10 +10,8 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "dependencies": {
-    "cypress": "^14.2.0"
-  },
   "devDependencies": {
+    "cypress": "^14.4.0",
     "cypress-file-upload": "^5.0.8"
   }
 }
